@@ -1,0 +1,25 @@
+header, footer {
+    background-color: black;
+    color: white;
+}
+
+.menu {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.slider-div {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+main div p {
+    text-align: justify;
+}
+
+
+.footer, .footer-alamat {
+    text-align: center;
+}
